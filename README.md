@@ -10,7 +10,7 @@
 
 DrawBox is a multi-purpose tool to draw anything on canvas, written completely on jetpack compose.
 
-## Feature
+## Features
 * Customisable stoke size and color
 * Inbuilt Undo and Redo options
 * Reset option
